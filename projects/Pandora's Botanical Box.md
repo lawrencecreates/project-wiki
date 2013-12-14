@@ -1,20 +1,31 @@
 # Project Pandora's Botanical Box
 
 ## Summary
-Barb Kerr, Amanda Monaghan, Sarah Kunen, Allison Steffen, Eric Kirkendall, Steve Brown, Paulo Leal
+The goal of this project is to create an enclosed ecosystem that will be used to grow plants and fish. The plants will grow using hydroponics. A container at the base of the box will hold fish and water. The water will be pumped to the top of the box and the water will trickle down to water plants several times a day
 
 ## Developer
 2013/11/05 7:05:51 PM CST
+
 ### Contact
-Anthony Pfeifer
+Anthony Pfeifer 
+785.979.3800
+anthony.pfeifer@gmail.com
+
 ## Team 
 
 
 ### Members
-Grow Group
+Barb Kerr
+Amanda Monaghan
+Sarah Kunen
+Allison Steffen
+Eric Kirkendall
+Steve Brown
+Paulo Leal
+Greg Lewis 
 
 ## Timeline
-The goal of this project is to create an enclosed ecosystem that will be used to grow plants and fish. The plants will grow using hydroponics. A container at the base of the box will hold fish and water. The water will be pumped to the top of the box and the water will trickle down to water plants several times a day. 
+. 
 
 Decisions on the exact design are a work in progress.
 
@@ -30,7 +41,6 @@ Low-density polyurethane tube
 2 Sheets of expanded PVC 1/3-inch thick 47.6*95.2 inches
 Staples 1/3 inch
 Silicone sealer adhesive strip
-Vertical tubes square cut
 Light source
 *Water liner
 *Moisture sensor
