@@ -1,0 +1,42 @@
+# Project Access Control System
+
+## Summary
+Provide an access control system for the facility. Using unique personally identifiable access devices manage and log entry and exit of individuals visiting the facility.  Current plan is to use RFID and a Physical Key to track and control access to the facility. The access control device will use a MagLock on the front door, a mechanical deadbolt and an RFID reader. The system will be controlled using a Linux based system (Raspberry Pi) and log entries into a database system.  Additional features would be to count number of visitors to the facility in aggregate and extend identification and control system into development of a machine management and maintenance system.
+
+*We also currently have a Rueschoff alarm system in place to improve security.
+
+## Developer
+Greg Thompson
+### Contact
+
+## Team 
+Hack Lab
+
+### Members
+Greg Thompson
+
+## Timeline
+
+
+## resources
+Total Budget Requested ($760 estimated) Expenses to date $235.50
+
+Includes:
+MagLock ($100) Final cost $63
+RFID Card Reader & example cards ($100) Current cost $85
+Control System [Raspberry Pi & accessories] ($100) Current cost $82.50
+Sensors - Switches - Control Boxes ($100) Current cost $5
+Wiring ($60) Current cost TBD
+UPS backup, 12 Volt supply, charging system and override system ($150)  Current cost TBD
+Misc ($100) Current cost TBD
+Access Control Devices [RFID Cards] ($50) Current cost TBD
+
+## vision
+The project provides several benefits. First it improves security by controlling access to the facility after hours to individuals who have a valid access control device.  It also allows the facility to restrict open access to the facility during normal hours of operations to paying participants, forcing unauthorized individuals to request access (by knocking) to be escorted into the building by an authorized participant . 
+
+The project also advances the mission of Lawrence Creates, by providing a platform and project for individuals to build, educate and experiment with building software and hardware on the Raspberry Pi and Linux operating system. 
+
+## links
+Once the initial control system for the project is installed, a secondary "testing and development" system should be implemented where participants can "hack" on and work to learn and improve the installed system without inconvenience to the facility and it's participants.
+
+
