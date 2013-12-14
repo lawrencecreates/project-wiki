@@ -28,11 +28,17 @@ Decisions on the exact design are a work in progress.
 We still need: 
 
 •	Felt- irrigation cloth
+
 •	Automatic humidification system
+
 •	Low-density polyurethane tube
+
 •	2 Sheets of expanded PVC 1/3-inch thick 47.6*95.2 inches
+
 •	Staples 1/3 inch
+
 •	Silicone sealer adhesive strip
+
 •	Light source
 
 ## vision
